@@ -1,0 +1,17 @@
+py-tgcalls==0.9.7
+pyrogram==2.0.106
+bs4
+ffmpeg-python
+motor
+python-dotenv==1.0.0
+tgcrypto
+youtube_search
+yt_dlp
+pydub
+pillow
+httpx==0.25.2
+aiofiles
+numpy
+gtts
+wget
+aiohttp
