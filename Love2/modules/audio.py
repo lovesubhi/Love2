@@ -154,9 +154,9 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     image2.paste(image5, (0,0), mask = image5)
 
     
-    font1 = ImageFont.truetype(r'Love2/Helper/resources/robot.otf', 30)
-    font2 = ImageFont.truetype(r'Love2/Helper/resources/robot.otf', 60)
-    font3 = ImageFont.truetype(r'Love2/Helper/resources/robot.otf', 49)
+    font1 = ImageFont.truetype(r'Love2/Helper/resources/Love2.otf', 30)
+    font2 = ImageFont.truetype(r'Love2/Helper/resources/Love2.otf', 60)
+    font3 = ImageFont.truetype(r'Love2/Helper/resources/Love2.otf', 49)
     font4 = ImageFont.truetype(r'Love2/Helper/resources/Love2.ttf', 35)
 
     image4 = ImageDraw.Draw(image2)
